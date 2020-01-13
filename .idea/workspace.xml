@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4afbe57d-058b-4b68-afe6-5741aa2bffd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hiworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiworld.java" afterDir="false" />
     </list>
@@ -39,6 +40,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="hiworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -77,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578887777870</updated>
       <workItem from="1578887780370" duration="2168000" />
+      <workItem from="1578893562468" duration="1483000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1578891527472</created>
@@ -103,6 +114,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="329" y="94" key="#Project_Structure" timestamp="1578893610915">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="329" y="94" key="#Project_Structure/0.0.1474.864@0.0.1474.864" timestamp="1578893610915" />
     <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1578891806715">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
@@ -131,5 +146,8 @@
       <screen x="0" y="0" width="1218" height="720" />
     </state>
     <state x="202" y="82" key="Vcs.Push.Dialog.v2/0.0.1218.720@0.0.1218.720" timestamp="1578891813041" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wei$hiworld.ic" NAME="hiworld Coverage Results" MODIFIED="1578893630469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
