@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4afbe57d-058b-4b68-afe6-5741aa2bffd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hiworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hiworld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/hiworld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled1/hiworld.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -87,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578887777870</updated>
       <workItem from="1578887780370" duration="2168000" />
-      <workItem from="1578893562468" duration="1483000" />
+      <workItem from="1578893562468" duration="1850000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1578891527472</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578891807418</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test2">
+      <created>1578896341630</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578896341631</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,43 +118,54 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="329" y="94" key="#Project_Structure" timestamp="1578893610915">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="329" y="94" key="#Project_Structure/0.0.1474.864@0.0.1474.864" timestamp="1578893610915" />
-    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1578891806715">
-      <screen x="0" y="0" width="1218" height="720" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1578896339377">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="219" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1578891806715" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1578896339377" />
     <state x="390" y="102" key="FileChooserDialogImpl" timestamp="1578891773061">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
     <state x="390" y="102" key="FileChooserDialogImpl/0.0.1218.720@0.0.1218.720" timestamp="1578891773061" />
-    <state width="1140" height="161" key="GridCell.Tab.0.bottom" timestamp="1578891594866">
-      <screen x="0" y="0" width="1218" height="720" />
+    <state width="1342" height="142" key="GridCell.Tab.0.bottom" timestamp="1578896695491">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state width="1140" height="161" key="GridCell.Tab.0.bottom/0.0.1218.720@0.0.1218.720" timestamp="1578891594866" />
-    <state width="1140" height="161" key="GridCell.Tab.0.center" timestamp="1578891594866">
-      <screen x="0" y="0" width="1218" height="720" />
+    <state width="1342" height="142" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1578896695491" />
+    <state width="1342" height="142" key="GridCell.Tab.0.center" timestamp="1578896695491">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state width="1140" height="161" key="GridCell.Tab.0.center/0.0.1218.720@0.0.1218.720" timestamp="1578891594866" />
-    <state width="1140" height="161" key="GridCell.Tab.0.left" timestamp="1578891594866">
-      <screen x="0" y="0" width="1218" height="720" />
+    <state width="1342" height="142" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1578896695491" />
+    <state width="1342" height="142" key="GridCell.Tab.0.left" timestamp="1578896695490">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state width="1140" height="161" key="GridCell.Tab.0.left/0.0.1218.720@0.0.1218.720" timestamp="1578891594866" />
-    <state width="1140" height="161" key="GridCell.Tab.0.right" timestamp="1578891594866">
-      <screen x="0" y="0" width="1218" height="720" />
+    <state width="1342" height="142" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1578896695490" />
+    <state width="1342" height="142" key="GridCell.Tab.0.right" timestamp="1578896695491">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state width="1140" height="161" key="GridCell.Tab.0.right/0.0.1218.720@0.0.1218.720" timestamp="1578891594866" />
-    <state x="202" y="82" key="Vcs.Push.Dialog.v2" timestamp="1578891813041">
-      <screen x="0" y="0" width="1218" height="720" />
+    <state width="1342" height="142" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1578896695491" />
+    <state x="244" y="98" key="Vcs.Push.Dialog.v2" timestamp="1578896344482">
+      <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="202" y="82" key="Vcs.Push.Dialog.v2/0.0.1218.720@0.0.1218.720" timestamp="1578891813041" />
+    <state x="244" y="98" key="Vcs.Push.Dialog.v2/0.0.1474.864@0.0.1474.864" timestamp="1578896344482" />
+    <state x="532" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578896348561">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="532" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864@0.0.1474.864" timestamp="1578896348561" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/wei$hiworld.ic" NAME="hiworld Coverage Results" MODIFIED="1578893630469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/wei$hiworld.ic" NAME="hiworld Coverage Results" MODIFIED="1578896695354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
